@@ -2,9 +2,12 @@
 
 I am Aditya Prasad. I am from the old and diverse city of [New Delhi, India](https://en.wikipedia.org/wiki/New_Delhi).  
 Every once in a while, I think of something that feels worth writing down, however, I never do. I'd like to change that. Hopefully it'll be useful for future me and anyone else who stumbles upon this website.  
+--
 
 ## POST THOUGHT 1
 ### Mindset During Learning: Different Iterations
+#### Dated: Friday, 18 June 2021
+
 
 This summer, I am working on machine learning problems and as a result I have had to reacquaint myself with 
 the literature. I say reacquaint because I have worked on it before. Like several others at my college, I too
