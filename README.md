@@ -20,5 +20,5 @@ I realized that my thinking, while I am going over the same material, something 
 
 I thought, this was an interesting finding. 
 
-**PS**: I will try to make it a point to finish every post with a music recommendation where the title matches a phrase from somewhere in the post. Bonus points if the meanings happen to sync as well! Here it is: [Paradigm Shift](https://www.youtube.com/watch?v=Vi2IQNs8hlE)
+**PS**: I will try to make it a point to finish every post with a music recommendation where the title matches a phrase from somewhere in the post. Bonus points if the meanings happen to sync as well! Here it is: [Paradigm Shift](https://www.youtube.com/watch?v=Vi2IQNs8hlE) by Liquid Tension Experiment.
 
